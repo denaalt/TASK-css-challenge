@@ -1,15 +1,40 @@
 /* Add your code in each class */
-body {
+
+.body {
+  background-color: blueviolet;
 }
 .container {
+  
+  
+  height: 100vh;
+  background-color: blueviolet;
+}
+.movie-image {
+  height: 400px;
+  width: 200px;
+  
 }
 .movie-card {
+  border: 2px solid white;
+  
+  
+  
 }
 .movie-image {
 }
 .movie-details-container {
+  
+  
 }
 .descriptions {
+  text-align: center;
+  border: 2px solid white;
+  
+  
+  
+  
+
+  
 }
 
 /*A gift from us!*/
@@ -28,4 +53,9 @@ body {
   );
 }
 .movie-title {
+  
+  font-size: 25px;
+  text-align: center;
 }
+
+  

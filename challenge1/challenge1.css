@@ -1,0 +1,40 @@
+.pokemon-bg{ 
+    url("pokemon-bg.jpg");
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    padding: 0;}
+
+
+.pika-imge{
+width: 90px;
+height: auto;
+position: absolute;
+top: 500px;
+left: 650px;
+border-radius: 10%;
+display: flex;
+flex-direction: column;
+justify-content: center;
+}
+.title{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    top: 600px;
+    left: 650px;
+    font-size: 15px;
+    color: white;
+
+}
+.description{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    top: 620px;
+    left: 650px;
+    font-size: 15px;
+    color: white;
+}
+  
